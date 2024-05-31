@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/image-avatar.webp)
+![](./assets/images/Screenshot.png)
 
 ### Links
 
-- Live Site URL: [site URL here](https://masterpm.github.io/expenses-chart-component-main/)
+- Live Site URL: [site URL here](https://masterpm.github.io/Blog-preview-card-solution/)
 
 ## My process
 
